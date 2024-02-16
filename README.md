@@ -6,7 +6,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto en construcción 2 :construction:
 
 Para ejecutar el sistema, debes poner:
 
